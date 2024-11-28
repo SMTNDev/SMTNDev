@@ -24,7 +24,7 @@ Hi, I'm @SMTNDev — a passionate solo programmer 🧑‍💻, innovator 🌟, a
 
 ## ✨ **Highlights**  
 - 🔨 **Current Project**:  
-  - Crafting **Auraluxe**, a next-gen music player app 🎶.  
+  - Crafting **Auraluxe**, a next-gen Call & SMS Bombing Tool 🎶.  
 - 🌱 **Learning**: Exploring AI/ML models and advancing in cloud computing ☁️.  
 - 🏆 **Achievements**: Delivered multiple high-impact solo projects with a focus on clean code and UX.  
 
