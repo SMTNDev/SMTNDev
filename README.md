@@ -1,34 +1,53 @@
-# 👋 Hi there, I'm @SMTNDev  
+# 👋 Welcome to My GitHub Profile  
 
-🚀 **About Me**  
-I’m a solo programmer with a passion for crafting innovative projects and solving complex problems. My work is inspired by creativity, efficiency, and continuous learning.  
-
-🌟 **What I Do**  
-- 💻 **Programming Languages**: [List your languages, e.g., JavaScript, Python, C++]  
-- 🌐 **Web Development**: Creating responsive and user-friendly tools/websites.  
-- 📱 **App Development**: Building intuitive and sleek mobile applications.  
-- 🛠️ **Tools & Frameworks**: [List tools/frameworks, e.g., React, Node.js, Docker].  
-
-🎯 **Current Focus**  
-- Developing **Auraluxe**, a feature-rich music player app.  
-- Exploring new technologies in AI and machine learning.  
-
-📈 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
-🌐 **Connect with Me**  
-- 🌟 [Portfolio](#)  
-- 💼 [LinkedIn](#)  
-- 📧 [Email](mailto:yourname@example.com)  
-
-📜 **Fun Facts**  
-- 🎨 I love combining technology with art and design.  
-- 🎵 Music is my constant companion while coding.  
-
-💡 **Quote I Live By**  
-*"Success is no accident. It is hard work, perseverance, learning, studying, and sacrifice."*  
+🚀 **Who Am I?**  
+Hi, I'm @SMTNDev — a passionate solo programmer 🧑‍💻, innovator 🌟, and lifelong learner 📚. I love transforming ideas into elegant solutions and creating meaningful digital experiences.  
 
 ---
 
-Thanks for stopping by! ✨ Let’s create something amazing together!
+## 💡 **What Drives Me**  
+- **🎯 Vision**: Building software that solves real-world problems.  
+- **🌍 Mission**: Leveraging technology to create impact and inspire innovation.  
+- **📖 Philosophy**: *"Code is not just a tool; it's an art."*  
+
+---
+
+## 🛠️ **Tech Stack & Skills**  
+- **Languages**:  
+  ![Languages](https://skillicons.dev/icons?i=js,python,cpp,java&theme=dark)  
+- **Frameworks & Tools**:  
+  ![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,docker&theme=dark)  
+- **Version Control**:  
+  ![Git](https://skillicons.dev/icons?i=git,github&theme=dark)  
+
+---
+
+## ✨ **Highlights**  
+- 🔨 **Current Project**:  
+  - Crafting **Auraluxe**, a next-gen music player app 🎶.  
+- 🌱 **Learning**: Exploring AI/ML models and advancing in cloud computing ☁️.  
+- 🏆 **Achievements**: Delivered multiple high-impact solo projects with a focus on clean code and UX.  
+
+---
+
+## 📊 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMTNDev&show_icons=true&theme=highcontrast)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMTNDev&layout=compact&theme=highcontrast)  
+
+---
+
+## 🌐 **Let's Connect**  
+- [🌟 Portfolio](#)  
+- [💼 LinkedIn](#)  
+- [📧 Email](sumitran.info@gmail.com)  
+
+---
+
+## 🔍 **Fun Facts**  
+- 🎵 Music is my coding muse; playlists are essential to productivity.  
+- 🌌 I find inspiration in the cosmos and love merging creativity with technology.  
+
+Let’s create something incredible together! Feel free to explore, collaborate, or reach out. 🚀
+
+💡 **Quote I Live By**  
+*"Success is no accident. It is hard work, perseverance, learning, studying, and sacrifice."*
