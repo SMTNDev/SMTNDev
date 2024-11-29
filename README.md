@@ -38,6 +38,7 @@ Hi, I'm @SMTNDev — a passionate solo programmer 🧑‍💻, innovator 🌟, a
 
 ## 🌐 **Let's Connect**  
 - [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?style=for-the-badge&logo=Blogger&logoColor=white)](https://smtndev.blogspot.com)  
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569627031891&mibextid=ZbWKwL)
 - [💼 LinkedIn](https://in.linkedin.com/in/sumit-santra-6a026a33b)  
 - [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](sumitran.info@gmail.com)  
 
