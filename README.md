@@ -37,10 +37,8 @@ Hi, I'm @SMTNDev — a passionate solo programmer 🧑‍💻, innovator 🌟, a
 ---
 
 ## 🌐 **Let's Connect**  
-- [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?style=for-the-badge&logo=Blogger&logoColor=white)](https://smtndev.blogspot.com)  
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569627031891&mibextid=ZbWKwL)
-- [💼 LinkedIn](https://in.linkedin.com/in/sumit-santra-6a026a33b)  
-- [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](sumitran.info@gmail.com)  
+[![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?style=for-the-badge&logo=Blogger&logoColor=white)](https://smtndev.blogspot.com)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569627031891&mibextid=ZbWKwL)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sumit-santra-6a026a33b)  [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](sumitran.info@gmail.com)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+Izlxpfzi2vM3NDhl)
 
 ---
 
