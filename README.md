@@ -38,7 +38,7 @@ Hi, I'm @SMTNDev — a passionate solo programmer 🧑‍💻, innovator 🌟, a
 
 ## 🌐 **Let's Connect**  
 [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?style=for-the-badge&logo=Blogger&logoColor=white)](https://smtndev.blogspot.com)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569627031891&mibextid=ZbWKwL)[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](SMTNDev@gmail.com)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+Izlxpfzi2vM3NDhl)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaxGd3SBVJkwtiwiRC37)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaxGd3SBVJkwtiwiRC37) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WHfKgzjxeg)
 
 ---
 
